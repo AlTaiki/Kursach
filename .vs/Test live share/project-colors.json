@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50ebbd7b-12e0-4731-b1da-5460dc932c6b": {
+      "ProjectGuid": "50ebbd7b-12e0-4731-b1da-5460dc932c6b",
+      "DisplayName": "Test live share",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\Test live share.exe
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\Test live share.deps.json
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\Test live share.runtimeconfig.json
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\Test live share.dll
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\ref\Test live share.dll
+C:\Users\mrlyo\source\repos\Test live share\Test live share\bin\Debug\net6.0\Test live share.pdb
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.csproj.AssemblyReference.cache
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.AssemblyInfoInputs.cache
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.AssemblyInfo.cs
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.csproj.CoreCompileInputs.cache
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.dll
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\ref\Test live share.dll
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.pdb
+C:\Users\mrlyo\source\repos\Test live share\Test live share\obj\Debug\net6.0\Test live share.genruntimeconfig.cache
